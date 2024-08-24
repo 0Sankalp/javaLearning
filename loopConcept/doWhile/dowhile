@@ -1,0 +1,10 @@
+The Java do-while loop is used to iterate a part of the program repeatedly, until the specified condition is true. If the number of iteration is not fixed and you must have to execute the loop at least once, it is recommended to use a do-while loop.
+
+This loop is called an exit control loop, it check the  condtion at the end of the body
+it is executed at least once because  condition is cheecked after loop body
+
+
+Syntax:
+do{    
+ code written here  
+}while (condition);    
