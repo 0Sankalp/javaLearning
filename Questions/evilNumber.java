@@ -80,5 +80,5 @@ import java.util.Scanner;
 }  
     
 
-// The Evil number is another special positive whole number in
-// Java that has an even number of 1's in its binary equivalent
+/*The Evil number is another special positive whole number in
+Java that has an even number of 1's in its binary equivalent */ 
